@@ -105,3 +105,4 @@ export const useVoiceAssistant = () => {
 
   return { isListening, transcript, messages, startListening, stopListening, processMessage, isLoading };
 };
+// Force Vercel Update - v3
